@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-22T07:25:11-03:00",
+  "updatedAt": "2026-11-23T07:26:31-03:00",
   "locations": [
     {
       "id": "pq-ibirapuera",
@@ -12,16 +12,10 @@
       "country": "BR",
       "dailyReports": [
         {
-          "date": "2026-11-22",
-          "score": 52,
-          "status": "attention",
-          "summary": "Na data 2026-11-22, as condições para correr em Pq. Ibirapuera são de atenção. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
-        },
-        {
           "date": "2026-11-23",
-          "score": 40,
+          "score": 54,
           "status": "attention",
-          "summary": "Na data 2026-11-23, as condições para correr em Pq. Ibirapuera são de atenção. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
+          "summary": "Na data 2026-11-23, as condições para correr em Pq. Ibirapuera são de atenção. A melhor janela está por volta de 07:00, considerando os horários mais comuns para a prática."
         },
         {
           "date": "2026-11-24",
@@ -39,22 +33,22 @@
           "date": "2026-11-26",
           "score": 67,
           "status": "acceptable",
-          "summary": "Na data 2026-11-26, as condições para correr em Pq. Ibirapuera são aceitáveis. A melhor janela está por volta de 19:00, considerando os horários mais comuns para a prática."
+          "summary": "Na data 2026-11-26, as condições para correr em Pq. Ibirapuera são aceitáveis. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
+        },
+        {
+          "date": "2026-11-27",
+          "score": 78,
+          "status": "favorable",
+          "summary": "Na data 2026-11-27, as condições para correr em Pq. Ibirapuera são favoráveis. A melhor janela está por volta de 06:00, considerando os horários mais comuns para a prática."
         }
       ],
       "timeZone": "America/Sao_Paulo",
       "upcomingDays": [
         {
-          "date": "2026-11-22",
-          "status": "attention",
-          "score": 52,
-          "bestTime": "05:00:00"
-        },
-        {
           "date": "2026-11-23",
           "status": "attention",
-          "score": 40,
-          "bestTime": "05:00:00"
+          "score": 54,
+          "bestTime": "07:00:00"
         },
         {
           "date": "2026-11-24",
@@ -72,19 +66,25 @@
           "date": "2026-11-26",
           "status": "acceptable",
           "score": 67,
-          "bestTime": "19:00:00"
+          "bestTime": "05:00:00"
         },
         {
           "date": "2026-11-27",
           "status": "favorable",
-          "score": 81,
+          "score": 78,
           "bestTime": "06:00:00"
         },
         {
           "date": "2026-11-28",
+          "status": "favorable",
+          "score": 75,
+          "bestTime": "06:00:00"
+        },
+        {
+          "date": "2026-11-29",
           "status": "acceptable",
-          "score": 71,
-          "bestTime": "09:00:00"
+          "score": 66,
+          "bestTime": "06:00:00"
         }
       ]
     },
@@ -99,79 +99,79 @@
       "country": "BR",
       "dailyReports": [
         {
-          "date": "2026-11-22",
-          "score": 52,
-          "status": "attention",
-          "summary": "Na data 2026-11-22, as condições para correr em Pq. Vila Lobos são de atenção. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
-        },
-        {
           "date": "2026-11-23",
-          "score": 37,
-          "status": "unfavorable",
-          "summary": "Na data 2026-11-23, as condições para correr em Pq. Vila Lobos são desfavoráveis. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
+          "score": 54,
+          "status": "attention",
+          "summary": "Na data 2026-11-23, as condições para correr em Pq. Vila Lobos são de atenção. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
         },
         {
           "date": "2026-11-24",
-          "score": 40,
-          "status": "attention",
-          "summary": "Na data 2026-11-24, as condições para correr em Pq. Vila Lobos são de atenção. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
+          "score": 39,
+          "status": "unfavorable",
+          "summary": "Na data 2026-11-24, as condições para correr em Pq. Vila Lobos são desfavoráveis. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
         },
         {
           "date": "2026-11-25",
-          "score": 43,
+          "score": 41,
           "status": "attention",
           "summary": "Na data 2026-11-25, as condições para correr em Pq. Vila Lobos são de atenção. A melhor janela está por volta de 06:00, considerando os horários mais comuns para a prática."
         },
         {
           "date": "2026-11-26",
-          "score": 67,
+          "score": 66,
           "status": "acceptable",
-          "summary": "Na data 2026-11-26, as condições para correr em Pq. Vila Lobos são aceitáveis. A melhor janela está por volta de 20:00, considerando os horários mais comuns para a prática."
+          "summary": "Na data 2026-11-26, as condições para correr em Pq. Vila Lobos são aceitáveis. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
+        },
+        {
+          "date": "2026-11-27",
+          "score": 78,
+          "status": "favorable",
+          "summary": "Na data 2026-11-27, as condições para correr em Pq. Vila Lobos são favoráveis. A melhor janela está por volta de 06:00, considerando os horários mais comuns para a prática."
         }
       ],
       "timeZone": "America/Sao_Paulo",
       "upcomingDays": [
         {
-          "date": "2026-11-22",
-          "status": "attention",
-          "score": 52,
-          "bestTime": "05:00:00"
-        },
-        {
           "date": "2026-11-23",
-          "status": "unfavorable",
-          "score": 37,
+          "status": "attention",
+          "score": 54,
           "bestTime": "05:00:00"
         },
         {
           "date": "2026-11-24",
-          "status": "attention",
-          "score": 40,
+          "status": "unfavorable",
+          "score": 39,
           "bestTime": "05:00:00"
         },
         {
           "date": "2026-11-25",
           "status": "attention",
-          "score": 43,
+          "score": 41,
           "bestTime": "06:00:00"
         },
         {
           "date": "2026-11-26",
           "status": "acceptable",
-          "score": 67,
-          "bestTime": "20:00:00"
+          "score": 66,
+          "bestTime": "05:00:00"
         },
         {
           "date": "2026-11-27",
           "status": "favorable",
-          "score": 81,
+          "score": 78,
           "bestTime": "06:00:00"
         },
         {
           "date": "2026-11-28",
+          "status": "favorable",
+          "score": 76,
+          "bestTime": "06:00:00"
+        },
+        {
+          "date": "2026-11-29",
           "status": "acceptable",
-          "score": 72,
-          "bestTime": "09:00:00"
+          "score": 66,
+          "bestTime": "06:00:00"
         }
       ]
     },
@@ -186,16 +186,10 @@
       "country": "BR",
       "dailyReports": [
         {
-          "date": "2026-11-22",
-          "score": 52,
-          "status": "attention",
-          "summary": "Na data 2026-11-22, as condições para correr em Av. Paulista são de atenção. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
-        },
-        {
           "date": "2026-11-23",
-          "score": 40,
+          "score": 54,
           "status": "attention",
-          "summary": "Na data 2026-11-23, as condições para correr em Av. Paulista são de atenção. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
+          "summary": "Na data 2026-11-23, as condições para correr em Av. Paulista são de atenção. A melhor janela está por volta de 07:00, considerando os horários mais comuns para a prática."
         },
         {
           "date": "2026-11-24",
@@ -213,22 +207,22 @@
           "date": "2026-11-26",
           "score": 67,
           "status": "acceptable",
-          "summary": "Na data 2026-11-26, as condições para correr em Av. Paulista são aceitáveis. A melhor janela está por volta de 19:00, considerando os horários mais comuns para a prática."
+          "summary": "Na data 2026-11-26, as condições para correr em Av. Paulista são aceitáveis. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
+        },
+        {
+          "date": "2026-11-27",
+          "score": 78,
+          "status": "favorable",
+          "summary": "Na data 2026-11-27, as condições para correr em Av. Paulista são favoráveis. A melhor janela está por volta de 06:00, considerando os horários mais comuns para a prática."
         }
       ],
       "timeZone": "America/Sao_Paulo",
       "upcomingDays": [
         {
-          "date": "2026-11-22",
-          "status": "attention",
-          "score": 52,
-          "bestTime": "05:00:00"
-        },
-        {
           "date": "2026-11-23",
           "status": "attention",
-          "score": 40,
-          "bestTime": "05:00:00"
+          "score": 54,
+          "bestTime": "07:00:00"
         },
         {
           "date": "2026-11-24",
@@ -246,19 +240,25 @@
           "date": "2026-11-26",
           "status": "acceptable",
           "score": 67,
-          "bestTime": "19:00:00"
+          "bestTime": "05:00:00"
         },
         {
           "date": "2026-11-27",
           "status": "favorable",
-          "score": 81,
+          "score": 78,
           "bestTime": "06:00:00"
         },
         {
           "date": "2026-11-28",
+          "status": "favorable",
+          "score": 75,
+          "bestTime": "06:00:00"
+        },
+        {
+          "date": "2026-11-29",
           "status": "acceptable",
-          "score": 71,
-          "bestTime": "09:00:00"
+          "score": 66,
+          "bestTime": "06:00:00"
         }
       ]
     },
@@ -273,14 +273,8 @@
       "country": "BR",
       "dailyReports": [
         {
-          "date": "2026-11-22",
-          "score": 54,
-          "status": "attention",
-          "summary": "Na data 2026-11-22, as condições para correr em Belo Horizonte são de atenção. A melhor janela está por volta de 09:00, considerando os horários mais comuns para a prática."
-        },
-        {
           "date": "2026-11-23",
-          "score": 47,
+          "score": 48,
           "status": "attention",
           "summary": "Na data 2026-11-23, as condições para correr em Belo Horizonte são de atenção. A melhor janela está por volta de 07:00, considerando os horários mais comuns para a prática."
         },
@@ -292,29 +286,29 @@
         },
         {
           "date": "2026-11-25",
-          "score": 42,
+          "score": 52,
           "status": "attention",
-          "summary": "Na data 2026-11-25, as condições para correr em Belo Horizonte são de atenção. A melhor janela está por volta de 07:00, considerando os horários mais comuns para a prática."
+          "summary": "Na data 2026-11-25, as condições para correr em Belo Horizonte são de atenção. A melhor janela está por volta de 06:00, considerando os horários mais comuns para a prática."
         },
         {
           "date": "2026-11-26",
-          "score": 54,
+          "score": 50,
           "status": "attention",
           "summary": "Na data 2026-11-26, as condições para correr em Belo Horizonte são de atenção. A melhor janela está por volta de 07:00, considerando os horários mais comuns para a prática."
+        },
+        {
+          "date": "2026-11-27",
+          "score": 71,
+          "status": "acceptable",
+          "summary": "Na data 2026-11-27, as condições para correr em Belo Horizonte são aceitáveis. A melhor janela está por volta de 06:00, considerando os horários mais comuns para a prática."
         }
       ],
       "timeZone": "America/Sao_Paulo",
       "upcomingDays": [
         {
-          "date": "2026-11-22",
-          "status": "attention",
-          "score": 54,
-          "bestTime": "09:00:00"
-        },
-        {
           "date": "2026-11-23",
           "status": "attention",
-          "score": 47,
+          "score": 48,
           "bestTime": "07:00:00"
         },
         {
@@ -326,26 +320,32 @@
         {
           "date": "2026-11-25",
           "status": "attention",
-          "score": 42,
-          "bestTime": "07:00:00"
+          "score": 52,
+          "bestTime": "06:00:00"
         },
         {
           "date": "2026-11-26",
           "status": "attention",
-          "score": 54,
+          "score": 50,
           "bestTime": "07:00:00"
         },
         {
           "date": "2026-11-27",
           "status": "acceptable",
-          "score": 73,
+          "score": 71,
           "bestTime": "06:00:00"
         },
         {
           "date": "2026-11-28",
           "status": "acceptable",
-          "score": 66,
+          "score": 67,
           "bestTime": "06:00:00"
+        },
+        {
+          "date": "2026-11-29",
+          "status": "acceptable",
+          "score": 60,
+          "bestTime": "09:00:00"
         }
       ]
     },
@@ -360,22 +360,16 @@
       "country": "BR",
       "dailyReports": [
         {
-          "date": "2026-11-22",
-          "score": 50,
-          "status": "attention",
-          "summary": "Na data 2026-11-22, as condições para correr em Cuiabá são de atenção. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
-        },
-        {
           "date": "2026-11-23",
-          "score": 40,
-          "status": "attention",
-          "summary": "Na data 2026-11-23, as condições para correr em Cuiabá são de atenção. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
+          "score": 38,
+          "status": "unfavorable",
+          "summary": "Na data 2026-11-23, as condições para correr em Cuiabá são desfavoráveis. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
         },
         {
           "date": "2026-11-24",
-          "score": 45,
-          "status": "attention",
-          "summary": "Na data 2026-11-24, as condições para correr em Cuiabá são de atenção. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
+          "score": 39,
+          "status": "unfavorable",
+          "summary": "Na data 2026-11-24, as condições para correr em Cuiabá são desfavoráveis. A melhor janela está por volta de 06:00, considerando os horários mais comuns para a prática."
         },
         {
           "date": "2026-11-25",
@@ -388,27 +382,27 @@
           "score": 46,
           "status": "attention",
           "summary": "Na data 2026-11-26, as condições para correr em Cuiabá são de atenção. A melhor janela está por volta de 09:00, considerando os horários mais comuns para a prática."
+        },
+        {
+          "date": "2026-11-27",
+          "score": 40,
+          "status": "attention",
+          "summary": "Na data 2026-11-27, as condições para correr em Cuiabá são de atenção. A melhor janela está por volta de 06:00, considerando os horários mais comuns para a prática."
         }
       ],
       "timeZone": "America/Sao_Paulo",
       "upcomingDays": [
         {
-          "date": "2026-11-22",
-          "status": "attention",
-          "score": 50,
-          "bestTime": "05:00:00"
-        },
-        {
           "date": "2026-11-23",
-          "status": "attention",
-          "score": 40,
+          "status": "unfavorable",
+          "score": 38,
           "bestTime": "05:00:00"
         },
         {
           "date": "2026-11-24",
-          "status": "attention",
-          "score": 45,
-          "bestTime": "05:00:00"
+          "status": "unfavorable",
+          "score": 39,
+          "bestTime": "06:00:00"
         },
         {
           "date": "2026-11-25",
@@ -431,7 +425,13 @@
         {
           "date": "2026-11-28",
           "status": "attention",
-          "score": 42,
+          "score": 51,
+          "bestTime": "06:00:00"
+        },
+        {
+          "date": "2026-11-29",
+          "status": "attention",
+          "score": 41,
           "bestTime": "06:00:00"
         }
       ]
@@ -447,12 +447,6 @@
       "country": "BR",
       "dailyReports": [
         {
-          "date": "2026-11-22",
-          "score": 60,
-          "status": "acceptable",
-          "summary": "Na data 2026-11-22, as condições para correr em Olinda são aceitáveis. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
-        },
-        {
           "date": "2026-11-23",
           "score": 56,
           "status": "attention",
@@ -466,25 +460,25 @@
         },
         {
           "date": "2026-11-25",
-          "score": 61,
+          "score": 60,
           "status": "acceptable",
           "summary": "Na data 2026-11-25, as condições para correr em Olinda são aceitáveis. A melhor janela está por volta de 05:00, considerando os horários mais comuns para a prática."
         },
         {
           "date": "2026-11-26",
-          "score": 62,
+          "score": 61,
           "status": "acceptable",
           "summary": "Na data 2026-11-26, as condições para correr em Olinda são aceitáveis. A melhor janela está por volta de 06:00, considerando os horários mais comuns para a prática."
+        },
+        {
+          "date": "2026-11-27",
+          "score": 67,
+          "status": "acceptable",
+          "summary": "Na data 2026-11-27, as condições para correr em Olinda são aceitáveis. A melhor janela está por volta de 06:00, considerando os horários mais comuns para a prática."
         }
       ],
       "timeZone": "America/Sao_Paulo",
       "upcomingDays": [
-        {
-          "date": "2026-11-22",
-          "status": "acceptable",
-          "score": 60,
-          "bestTime": "05:00:00"
-        },
         {
           "date": "2026-11-23",
           "status": "attention",
@@ -500,13 +494,13 @@
         {
           "date": "2026-11-25",
           "status": "acceptable",
-          "score": 61,
+          "score": 60,
           "bestTime": "05:00:00"
         },
         {
           "date": "2026-11-26",
           "status": "acceptable",
-          "score": 62,
+          "score": 61,
           "bestTime": "06:00:00"
         },
         {
@@ -519,6 +513,12 @@
           "date": "2026-11-28",
           "status": "acceptable",
           "score": 65,
+          "bestTime": "06:00:00"
+        },
+        {
+          "date": "2026-11-29",
+          "status": "acceptable",
+          "score": 64,
           "bestTime": "06:00:00"
         }
       ]
